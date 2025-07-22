@@ -32,8 +32,8 @@ A Spring Boot-based RESTful backend service for scheduling interviews between st
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/interview-scheduler-backend.git
-cd interview-scheduler-backend
+git clone [(https://github.com/Soumyakant18/Slotmatching_backend/tree/master)]
+
 ```
 
 ### Run the application
