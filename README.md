@@ -32,7 +32,7 @@ A Spring Boot-based RESTful backend service for scheduling interviews between st
 ### Clone the repository
 
 ```bash
-git clone [(https://github.com/Soumyakant18/Slotmatching_backend/tree/master)]
+git clone (https://github.com/Soumyakant18/Slotmatching_backend/tree/master)
 
 ```
 
@@ -114,5 +114,5 @@ mvn spring-boot:run
 
 **Soumyakanta Rout**  
 Java | Spring Boot | Full Stack Developer  
-🔗 [LinkedIn](https://www.linkedin.com/in/soumyakanta-rout) 
+🔗 [LinkedIn](https://www.linkedin.com/in/soumyakanta-rout45/)
 
